@@ -1,0 +1,58 @@
+library IEEE;
+use IEEE.std_logic_1164.ALL;
+use IEEE.NUMERIC_STD.ALL;
+use ieee.std_logic_unsigned.all;
+library work;
+use work.common.all;
+
+entity pipeline_reg is
+port(
+     alu_funco : out alu_func_t;
+	  alu_Ao : out word;
+	  reg_Bo: out word;
+     pco : out unsigned(word'range);
+     rs1o: out word;
+	  rs2o: out word;
+	  rdo: out word;
+	  immo: out word;
+	  opcodeo : out opcode_t;
+	  branch_immo : out unsigned(word'range);
+	  j_imm0o : out unsigned(word'range);
+	  j_immo : out unsigned(word'range);
+	  lui0o : out word);
+end entity pipeline_reg;
+
+architecture behavioral of pipeline_reg is
+
+component primes is
+    port (alu_funci : out alu_func_t;
+			 alu_Ai : out word;
+			 reg_Bi: out word;
+			 immi : out word;
+			 j_imm0i : out unsigned(word'range);
+			 j_immi : out unsigned(word'range);
+			 branch_immi : out unsigned(word'range);
+			 opcodei : out opcode_t;
+			 rs1i : out std_logic_vector(4 downto 0);
+			 rs2i : out std_logic_vector(4 downto 0);
+			 rdi : out std_logic_vector(4 downto 0);
+			 lui0i : out word := x"00000000";
+			 pci : out unsigned(word'range));
+end component primes;
+begin
+
+ a0: primes port map(
+       pci <= pco,
+		 lui0i <= lui0o,
+		 rs1i <= rs1o,
+       rs2i <= rs2o,
+		 rdi <= rdo,
+		 alu_funci <= alu_funco,
+	    alu_Ai <= alu_Ao,
+	    reg_Bi <= reg_Bo,
+		 opcodei <= opcodeo,
+	    branch_immi <= branch_immo,
+	    j_imm0i <= j_imm0o,
+	    j_immi <= j_immo,
+	    lui0i <= lui0o);
+end architecture;

@@ -1,0 +1,109 @@
+{C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/regfile.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/regfile.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity regfile
+-- Compiling architecture rtl of regfile
+
+} {} {}} {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity pipeline
+-- Compiling architecture behavioral of pipeline
+
+} {} {}} {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/mul.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/mul.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity mul
+-- Compiling architecture behavioral of mul
+
+} {} {}} {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/alu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/alu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity alu
+-- Compiling architecture behavioral of alu
+
+} {} {}} {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline_reg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline_reg.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package common
+-- Compiling entity pipeline_2
+-- Compiling architecture behavioral of pipeline_2
+
+} {} {}} {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/dmem.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/dmem.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity dmem
+-- Compiling architecture rtl of dmem
+
+} {} {}} {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package common
+-- Compiling entity primes
+-- Compiling architecture behavioral of primes
+
+} {} {}} {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/imem.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/imem.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity imem
+-- Compiling architecture behavioral of imem
+
+} {} {}} {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity primes_tb
+-- Compiling architecture behavioral of primes_tb
+
+} {} {}} {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/common.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/common.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package common
+-- Compiling package body common
+-- Loading package common
+
+} {} {}}

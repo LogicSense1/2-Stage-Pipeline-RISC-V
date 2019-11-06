@@ -1,0 +1,455 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/simulation/modelsim
+Ealu
+Z1 w1537796056
+Z2 DPx4 work 6 common 0 22 [We8Hbz:CLW`TRR413=DR3
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/alu.vhd
+Z7 FC:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/alu.vhd
+l0
+L7
+Vc83_FFjKh_fiAT25bKM<80
+!s100 mVkRlgBPfS2A>L@8;5o2K0
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1538314716
+!i10b 1
+Z10 !s108 1538314716.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/alu.vhd|
+Z12 !s107 C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/alu.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 c83_FFjKh_fiAT25bKM<80
+l16
+L14
+VC<e9=j5c1dASaNE56Jb563
+!s100 Xc?oglMeo7RdY[@SEbhnk0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Pcommon
+R3
+R4
+R5
+Z15 w1537795445
+R0
+Z16 8C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/common.vhd
+Z17 FC:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/common.vhd
+l0
+L6
+V[We8Hbz:CLW`TRR413=DR3
+!s100 ceI@F3DoA]`WK1JHKO6fe1
+R8
+32
+b1
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/common.vhd|
+Z19 !s107 C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/common.vhd|
+!i113 1
+R13
+R14
+Bbody
+R2
+R3
+R4
+R5
+l0
+L91
+Vh;8f>Db9;oikB9KAXjDlA0
+!s100 ?[CTBj@D[9k?HXj<]ljS20
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Edmem
+Z20 w1538101953
+R2
+R3
+R4
+R5
+R0
+Z21 8C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/dmem.vhd
+Z22 FC:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/dmem.vhd
+l0
+L7
+V<7L9VDD_0:leK1[U<?=`43
+!s100 @jJMlUk[lRJ=;KFW4e:h;1
+R8
+32
+R9
+!i10b 1
+R10
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/dmem.vhd|
+Z24 !s107 C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/dmem.vhd|
+!i113 1
+R13
+R14
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 4 dmem 0 22 <7L9VDD_0:leK1[U<?=`43
+l29
+L25
+V:?9Y`k]A5z?m@[bR]18jF1
+!s100 O3`l7QgXl_Z3_U@UD;HU`1
+R8
+32
+R9
+!i10b 1
+R10
+R23
+R24
+!i113 1
+R13
+R14
+Eimem
+Z25 w1538308850
+R3
+R2
+Z26 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z27 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R4
+R5
+R0
+Z28 8C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/imem.vhd
+Z29 FC:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/imem.vhd
+l0
+L8
+Vd]SkVBB5mWK<?_F?BzKFj0
+!s100 k?14UWiF>oRHh2CJCjDHn3
+R8
+32
+R9
+!i10b 1
+R10
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/imem.vhd|
+Z31 !s107 C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/imem.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R2
+R26
+R27
+R4
+R5
+DEx4 work 4 imem 0 22 d]SkVBB5mWK<?_F?BzKFj0
+l74
+L14
+VV`>:NKlVVUdli>4fPjXk02
+!s100 <K82CT=]JDM>@FfV<jh4L0
+R8
+32
+R9
+!i10b 1
+R10
+R30
+R31
+!i113 1
+R13
+R14
+Emul
+Z32 w1538017869
+R3
+R2
+R26
+R27
+R4
+R5
+R0
+Z33 8C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/mul.vhd
+Z34 FC:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/mul.vhd
+l0
+L6
+VgPoX7N`;2KQ3j[:1C7DP>3
+!s100 hzEQ=ilhMXzc3Y^bkUBJV3
+R8
+32
+R9
+!i10b 1
+R10
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/mul.vhd|
+Z36 !s107 C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/mul.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R2
+R26
+R27
+R4
+R5
+DEx4 work 3 mul 0 22 gPoX7N`;2KQ3j[:1C7DP>3
+l14
+L12
+VoU6AhDa3W:OgQonO=dECL3
+!s100 2aL3@R7cY52@a6Fb4YRoi1
+R8
+32
+R9
+!i10b 1
+R10
+R35
+R36
+!i113 1
+R13
+R14
+Epipeline
+Z37 w1538103237
+R2
+R3
+R4
+R5
+R0
+Z38 8C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline.vhd
+Z39 FC:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline.vhd
+l0
+L8
+V]FgYf6=Zk4=EO81@9`<DU0
+!s100 BoaE[8RKHA=H]b8]F7:9f0
+R8
+32
+R9
+!i10b 1
+R10
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline.vhd|
+Z41 !s107 C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 8 pipeline 0 22 ]FgYf6=Zk4=EO81@9`<DU0
+l15
+L14
+VF:^AZJRz3J45FTn:TV0:b1
+!s100 edS6G3O[7VMK;2Q5;8D]B2
+R8
+32
+R9
+!i10b 1
+R10
+R40
+R41
+!i113 1
+R13
+R14
+Epipeline_2
+Z42 w1538194046
+R2
+R26
+R27
+R3
+R4
+R5
+R0
+Z43 8C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline_reg.vhd
+Z44 FC:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline_reg.vhd
+l0
+L8
+Vd<n88NzAzXOg?G395O4=M0
+!s100 UHgEXkDn0SEX1o_ame[f[3
+R8
+32
+R9
+!i10b 1
+R10
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline_reg.vhd|
+Z46 !s107 C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/pipeline_reg.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R26
+R27
+R3
+R4
+R5
+DEx4 work 10 pipeline_2 0 22 d<n88NzAzXOg?G395O4=M0
+l98
+L12
+V29U;LTfDRka_8?akkRQ=G3
+!s100 2h=E6H>DB`SEz<UbWNVGR1
+R8
+32
+R9
+!i10b 1
+R10
+R45
+R46
+!i113 1
+R13
+R14
+Eprimes
+Z47 w1538314711
+R2
+R26
+R27
+R3
+R4
+R5
+R0
+Z48 8C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes.vhd
+Z49 FC:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes.vhd
+l0
+L10
+V]Sg06YX2DQmJBY:THW`zd3
+!s100 O`:In15Y53=iV`0LHAQ=F3
+R8
+32
+R9
+!i10b 1
+R10
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes.vhd|
+Z51 !s107 C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R26
+R27
+R3
+R4
+R5
+DEx4 work 6 primes 0 22 ]Sg06YX2DQmJBY:THW`zd3
+l100
+L38
+VTgLoVPOE[PQl4FJ>=DG^e1
+!s100 IeFh4Jk]iC6aO7?RI:M;P0
+R8
+32
+R9
+!i10b 1
+R10
+R50
+R51
+!i113 1
+R13
+R14
+Eprimes_tb
+Z52 w1538190626
+R2
+R3
+R4
+R5
+R0
+Z53 8C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes_tb.vhd
+Z54 FC:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes_tb.vhd
+l0
+L8
+VL1SFfdEVj0CZjaXKD>^;B2
+!s100 ZUKR`[CFZ?0fU^c<hj:]=0
+R8
+32
+Z55 !s110 1538314717
+!i10b 1
+R10
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes_tb.vhd|
+Z57 !s107 C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/primes_tb.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 9 primes_tb 0 22 L1SFfdEVj0CZjaXKD>^;B2
+l23
+L11
+V6kR]5lD1IFC]OJU5[l0W93
+!s100 ?agFaUQ5k>_fK_EkWAG>a2
+R8
+32
+R55
+!i10b 1
+R10
+R56
+R57
+!i113 1
+R13
+R14
+Eregfile
+Z58 w1538114636
+R2
+R3
+R4
+R5
+R0
+Z59 8C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/regfile.vhd
+Z60 FC:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/regfile.vhd
+l0
+L7
+VdnMHYD1ehNEok2nlg=aZ23
+!s100 h[L3f9KNR33K`KDTJJNk63
+R8
+32
+R55
+!i10b 1
+Z61 !s108 1538314717.000000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/regfile.vhd|
+Z63 !s107 C:/Users/Wentian Xia/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/Assignment/Question_C/src/regfile.vhd|
+!i113 1
+R13
+R14
+Artl
+R2
+R3
+R4
+R5
+Z64 DEx4 work 7 regfile 0 22 dnMHYD1ehNEok2nlg=aZ23
+l32
+L27
+Z65 VEnNXnJG:WHzlUXj0g>UnK0
+Z66 !s100 2JKhj13c8^lz:hFCTBbPT2
+R8
+32
+R55
+!i10b 1
+R61
+R62
+R63
+!i113 1
+R13
+R14
